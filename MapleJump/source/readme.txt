@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-      		Massey University Game Programming project
+      		Game programming project
 ------------------------------------------------------------------------
 
 * Practice purpose only, no commercial use
